@@ -1,0 +1,20 @@
+{
+    "information":{
+        "video":[
+            {
+                "udp":"1000",
+                "url":"pb.mp4",
+                "isloop":"1",
+                "isScreenProtect":"1"
+            },        
+            {
+                "udp":"1001",
+                "url":"video.mp4",
+                "isloop":"0",
+                "isScreenProtect":"0"
+            }
+        ],
+        "volumeup":"2000",
+        "volumedown":"2001"
+    }
+}
